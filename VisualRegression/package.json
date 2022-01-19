@@ -1,0 +1,18 @@
+{
+  "name": "visual-regression-tests",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "npm run test:visual",
+    "test:visual": "npx backstopjs test",
+    "test:visual:approve": "npx backstopjs approve"
+  },
+  "keywords": [
+    "backstopjs"
+  ],
+  "author": "Aaron Stanley King",
+  "license": "MIT",
+  "devDependencies": {
+    "backstopjs": "^5.3.4"
+  }
+}
