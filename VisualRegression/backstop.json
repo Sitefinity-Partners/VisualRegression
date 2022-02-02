@@ -22,15 +22,15 @@
   "scenarios": [
     {
       "label": "Home",
-      "url": "https://localhost:18080/home",
-      "referenceUrl": "https://localhost:18080/home",
+      "url": "https://localhost:18080/",
+      "referenceUrl": "https://www.progress.com/",
       "misMatchThreshold": 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Products",
       "url": "https://localhost:18080/products",
-      "referenceUrl": "https://localhost:18080/product",
+      "referenceUrl": "https://www.progress.com/products",
       "misMatchThreshold": 0.1,
       "requireSameDimensions": true
     }

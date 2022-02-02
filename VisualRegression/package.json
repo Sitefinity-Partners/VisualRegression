@@ -13,6 +13,6 @@
   "author": "Aaron Stanley King",
   "license": "MIT",
   "devDependencies": {
-    "backstopjs": "^5.3.4"
+    "backstopjs": "^6.0.4"
   }
 }
